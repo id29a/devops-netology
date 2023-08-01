@@ -1,0 +1,29 @@
+[33mcommit fc66382e891c279c76b45ac0fc8b47e9788e48c5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: v0.1[m[33m, [m[1;33mtag: v0.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31mgitlab/main[m[33m, [m[1;31mgitlab/HEAD[m[33m)[m
+Author: id29a <91vladne@mail.ru>
+Date:   Mon Jul 31 12:24:20 2023 +0300
+
+    Moved and deleted
+
+[33mcommit 78cf43cbb3ad1e2e5bd7e472b5baec84553625c4[m
+Author: id29a <91vladne@mail.ru>
+Date:   Mon Jul 31 12:23:10 2023 +0300
+
+    Prepare to delete and move
+
+[33mcommit d48b14b79855b0db89bda9dfc27e69972dee991d[m
+Author: id29a <91vladne@mail.ru>
+Date:   Mon Jul 31 12:21:50 2023 +0300
+
+    Added gitignore
+
+[33mcommit 639fd4939f6256738d3d5b49547a358c8d8f3d68[m
+Author: id29a <91vladne@mail.ru>
+Date:   Mon Jul 31 12:10:09 2023 +0300
+
+    First commit
+
+[33mcommit 6cb345d0e3822e8cd4f658d0e7c502414843419a[m
+Author: id29a <38505857+id29a@users.noreply.github.com>
+Date:   Sun Jul 30 20:25:27 2023 +0300
+
+    Initial commit
