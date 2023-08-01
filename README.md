@@ -9,3 +9,7 @@ hw_2
 Игнорировать файлы override.tf, override.tf и оканчивающиеся на _override.tf и _override.tf.json
 Добавлять файлы example_override.tf
 Игнорировать файлы .terraformrc и terraform.rc
+
+hw_2
+
+new_line
